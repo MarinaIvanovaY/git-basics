@@ -1,0 +1,2 @@
+git basics
+copy with git clone
